@@ -225,13 +225,14 @@ void svm_train(CvSVM & svmClassifier)
 	fs.release();
 }
 
-void char_segment(const Mat & inputImg, vector <Mat>& dst_mat)//得到20*20的标准字符分割图像
+//得到20*20的标准字符分割图像
+void char_segment(const Mat & inputImg, vector <Mat>& dst_mat)
 {
 	Mat img_threshold;
 	threshold(inputImg, img_threshold, 180, 255, CV_THRESH_BINARY);
 
-	cv::imshow("threshold before:", inputImg);
-	cv::imshow("threshold after:", img_threshold);
+// 	cv::imshow("threshold before:", inputImg);
+// 	cv::imshow("threshold after:", img_threshold);
 //	cv::waitKey(0);
 
 	Mat img_contours;
