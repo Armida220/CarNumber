@@ -220,7 +220,8 @@ void svm_train(CvSVM & svmClassifier)
 	CvSVMParams SVM_params;
 	SVM_params.kernel_type = CvSVM::LINEAR;
 
-	svmClassifier.train(SVM_TrainningData, SVM_Classes, Mat(), Mat(), SVM_params); //SVM训练模型
+	// 训练SVM模型
+	svmClassifier.train(SVM_TrainningData, SVM_Classes, Mat(), Mat(), SVM_params);
 	fs.release();
 }
 
