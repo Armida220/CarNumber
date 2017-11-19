@@ -1,0 +1,23 @@
+﻿  carID_Detection.cpp
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(17): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(59): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(61): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(62): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(66): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(111): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(113): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(114): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(118): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(168): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(169): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(171): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(172): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(298): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(299): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(302): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(303): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(319): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(323): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\administrator\desktop\carnumber\carnumber\carnumber\carid_detection.cpp(434): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  CarNumber.vcxproj -> C:\Users\Administrator\Desktop\CarNumber\CarNumber\x64\Debug\CarNumber.exe
+  CarNumber.vcxproj -> C:\Users\Administrator\Desktop\CarNumber\CarNumber\x64\Debug\CarNumber.pdb (Full PDB)
